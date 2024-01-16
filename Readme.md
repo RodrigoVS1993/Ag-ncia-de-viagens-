@@ -5,7 +5,7 @@ Agência de viagens é um projeto feito no curso para formação full stack na p
 </p>
 
 <p align="center">
-  <a href="#-tecnologias">Tecnologias</a>
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>
 </p>
 
